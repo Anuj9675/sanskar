@@ -95,9 +95,9 @@ const portfolioItems = [
       "Fully interactive Landing Page UI prototype designed in Figma with clickable flows.",
     tools: ["Figma"],
     imageUrl:
-      "https://cdn.discordapp.com/attachments/905489514649239553/1396202772491141203/image.jpg?ex=687de369&is=687c91e9&hm=57d14115a896356c35969a5d2722a3950a10f7d62eccbe48e7b8b73dfe76c018&",
+      "https://cdn.discordapp.com/attachments/905489514649239553/1396447567868592158/Screenshot_119.png?ex=687e1ea4&is=687ccd24&hm=6cf5797bb2a11d4371ec3dd0e1ea81ff16423813c0f5fdb86184b5c1634f22c8&",
     demoLink:
-      "https://www.figma.com/proto/ZvalZFlTcDL35LiVEDXtY6/Untitled?page-id=0%3A1&node-id=1-193&p=f&viewport=152%2C205%2C0.47&t=m6XTr0mwxWtcAtoK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=145%3A43",
+      "https://www.figma.com/design/Ok0mfU7jOgUtxbBBm2Gvqc/Easy-Escapes?node-id=0-1&p=f&t=WB42TH0ZZVhgU7qg-0",
   },
 ];
 
